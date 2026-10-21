@@ -1,0 +1,13 @@
+scenarioKinds:
+- id: primary
+  name: Primary
+  description: The ordinary successful use of an ability.
+- id: alternate
+  name: Alternate
+  description: Another supported input, scope, or route to success.
+- id: validation
+  name: Validation
+  description: Input that the Product refuses or asks the User to correct.
+- id: edge
+  name: Edge
+  description: Cancellation, unavailable dependencies, or exceptional conditions.
